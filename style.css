@@ -1,0 +1,22 @@
+.allignment { border: 1px;
+    border: color black;
+    border-style: groove;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+    width: 10%; 
+    padding-right: 70px;
+}
+
+.gle {
+    padding: 10px;
+    padding-top: 10px;
+   
+}
+.dnd {
+    display: inline-flex;
+    gap: 20px;
+}
+#female {
+    margin-left: 30px;
+}
